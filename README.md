@@ -11,6 +11,7 @@ In order to run the project,
 3. Open the database file (sqlite/laundry.db) in SQLite database browser.
 
 3. Open the project (main/Laundry_Management_System.pro) in Qt Creator. Then, open the main.cpp under sources folder, and change the line     12 to the directory path of your database file. 
+
                     >>>>dbLaundry.setDatabaseName("YOUR-FILE-PATH");
                     
 4. Build and run the project.
