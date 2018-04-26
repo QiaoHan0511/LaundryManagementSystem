@@ -15,3 +15,4 @@ In order to run the project,
                     >>>>dbLaundry.setDatabaseName("YOUR-FILE-PATH");
                     
 4. Build and run the project.
+
